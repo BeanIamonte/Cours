@@ -1,2 +1,3 @@
-# Cours
-Mes cours de Javascript :)
+# Mes Projets
+
+Mes Projets JS
